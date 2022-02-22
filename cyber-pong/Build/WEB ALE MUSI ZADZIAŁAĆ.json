@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cyber Pong",
+"productVersion": "2.0",
+"dataUrl": "WEB ALE MUSI ZADZIAŁAĆ.data.unityweb",
+"wasmCodeUrl": "WEB ALE MUSI ZADZIAŁAĆ.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB ALE MUSI ZADZIAŁAĆ.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
